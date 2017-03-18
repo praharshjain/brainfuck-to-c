@@ -16,6 +16,7 @@ The program translates Brainfuck code into C using the following substitutions
 |         ,         | *ptr=getchar();                           |
 |         [         | while (*ptr) {                            |
 |         ]         | }                                         |
+  
 License
 ----------------
 MIT
